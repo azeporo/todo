@@ -1,0 +1,46 @@
+body {
+	background-color: beige;
+}
+li {
+	font-size: medium;
+	background-color: white;
+	padding: 10px;
+	margin: 15px 0px 15px -30px;
+	border-radius: 2px;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 10px;
+	color: teal;
+}
+
+.completed {
+	text-decoration: line-through;
+	color: gray;
+	font-size: small;
+}
+
+#tasks {
+	list-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+}
+
+#trash {
+	align-items: center;
+	margin-right: 20px;
+}
+
+#task-app {
+	background-color: whitesmoke;
+	border-radius: 1rem;
+}
+#task-instructions {
+	font-style: italic;
+	font-size: small;
+}
+
+.container-md {
+	margin-top: 20px;
+}
